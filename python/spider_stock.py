@@ -7,7 +7,6 @@ import sys
 import urllib
 import urllib2
 import traceback
-from logging.handlers import TimedRotatingFileHandler
 from bs4 import BeautifulSoup
 
 
