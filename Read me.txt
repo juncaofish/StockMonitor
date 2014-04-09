@@ -1,1 +1,0 @@
-This is a project case for fetching stock data from Internet and displaying that with LabVIEW.
